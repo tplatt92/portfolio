@@ -283,6 +283,8 @@
       width: 100%;
       background-color: var(--clr-purple);
       height: 10vw;
+      color: white;
+      text-align: center;
     }
 
     
